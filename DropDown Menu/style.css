@@ -1,0 +1,9 @@
+.dropt-btn {
+  border: 1px solid black;
+  display: inline-block;
+  background-color: grey;
+}
+
+.dropdown-content {
+  visibility: hidden;
+}
