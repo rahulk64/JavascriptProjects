@@ -7,3 +7,13 @@
 .dropdown-content {
   visibility: hidden;
 }
+
+#idDropDown {
+  width: 100px;
+  text-align: center;
+}
+
+#idDropDown div {
+  border: 1px solid black;
+  background-color: grey;
+}
