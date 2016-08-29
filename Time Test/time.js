@@ -1,8 +1,8 @@
+var name = prompt("What is your name?");
 setInterval(function() {
    var time = new Date();
    var hour = time.getHours();
    var minute = time.getMinutes();
-   var name = "Rahul";
 
    if(hour >= 18) {
      greeting = "Good Evening";
