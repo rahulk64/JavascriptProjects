@@ -30,7 +30,7 @@ body {
     cursor: pointer;
 }
 
-#c:active {
+#c:active, #c.activate {
   background-color:#db1d2d;
 }
 
@@ -44,7 +44,7 @@ body {
     cursor: pointer;
 }
 
-#d:active {
+#d:active, #d.activate {
   background-color: #f0421c;
 }
 
@@ -58,7 +58,7 @@ body {
     cursor: pointer;
 }
 
-#e:active {
+#e:active, #e.activate {
   background-color: #fec02d;
 }
 
@@ -72,7 +72,7 @@ body {
     cursor: pointer;
 }
 
-#f:active {
+#f:active, #f.activate {
   background-color: #20d071;
 }
 
@@ -86,7 +86,7 @@ body {
     cursor: pointer;
 }
 
-#g:active {
+#g:active, #g.activate {
   background-color: #1a9ddb;
 }
 
@@ -100,7 +100,7 @@ body {
     cursor: pointer;
 }
 
-#a:active {
+#a:active, #a.activate {
   background-color: #a13fad;
 }
 
@@ -115,6 +115,6 @@ body {
     cursor: pointer;
 }
 
-#b:active {
+#b:active, #b.activate {
   background-color: #f26fd4;
 }
